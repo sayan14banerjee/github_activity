@@ -118,7 +118,7 @@ github_activity/
 - Fetch starred repos, commits, PR details
 
 ### Project URL:
-    https://github.com/sayan14banerjee/github_activity
+https://github.com/sayan14banerjee/github_activity
 
 ### 🧑‍💻 Author
 Sayan Banerjee
