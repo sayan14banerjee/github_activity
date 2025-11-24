@@ -109,6 +109,10 @@ github_activity/
 ├── github_activity.py      # Python CLI
 └── README.md               # Documentation
 ```
+### 🌐 Project Page URL
+#### 🔗 GitHub Repository:
+👉 https://github.com/sayan14banerjee/github_activity
+
 ### 💡 Future Improvements (Optional)
 - Global CLI installation via npm / pip
 
