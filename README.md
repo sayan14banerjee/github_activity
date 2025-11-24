@@ -1,10 +1,6 @@
 # 📡 GitHub Activity CLI
 
-A simple command-line tool to fetch and display recent GitHub activity for any user — built using **Node.js** and **Python**, with **no external libraries**.
-
-## Project URL:
-https://github.com/sayan14banerjee/github_activity
-
+Sample solution for the [github-user-activity](https://github.com/sayan14banerjee/github_activity) challenge from [roadmap.sh](https://roadmap.sh/projects/github-user-activity/solutions)
 ---
 
 ## 🚀 Features
@@ -109,10 +105,6 @@ github_activity/
 ├── github_activity.py      # Python CLI
 └── README.md               # Documentation
 ```
-### 🌐 Project Page URL
-#### 🔗 GitHub Repository:
-👉 https://github.com/sayan14banerjee/github_activity
-
 ### 💡 Future Improvements (Optional)
 - Global CLI installation via npm / pip
 
