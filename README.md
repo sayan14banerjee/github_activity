@@ -1,6 +1,6 @@
 # 📡 GitHub Activity CLI
 
-Sample solution for the [github-user-activity](https://github.com/sayan14banerjee/github_activity) challenge from [roadmap.sh](https://roadmap.sh/projects/github-user-activity/solutions)
+Sample solution for the [github-user-activity](https://github.com/sayan14banerjee/github_activity) challenge from [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 ---
 
 ## 🚀 Features
