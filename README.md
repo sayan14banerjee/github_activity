@@ -2,6 +2,9 @@
 
 A simple command-line tool to fetch and display recent GitHub activity for any user — built using **Node.js** and **Python**, with **no external libraries**.
 
+## Project URL:
+https://github.com/sayan14banerjee/github_activity
+
 ---
 
 ## 🚀 Features
@@ -116,9 +119,6 @@ github_activity/
 - Configurable output format
 
 - Fetch starred repos, commits, PR details
-
-### Project URL:
-https://github.com/sayan14banerjee/github_activity
 
 ### 🧑‍💻 Author
 Sayan Banerjee
